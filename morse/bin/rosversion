@@ -1,0 +1,5 @@
+#!/usr/bin/python
+# EASY-INSTALL-SCRIPT: 'rospkg==1.0.38','rosversion'
+__requires__ = 'rospkg==1.0.38'
+import pkg_resources
+pkg_resources.run_script('rospkg==1.0.38', 'rosversion')

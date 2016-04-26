@@ -1,0 +1,2 @@
+VERSION="1.4-17-g1db9f"
+PROJECT_STABLE=False
